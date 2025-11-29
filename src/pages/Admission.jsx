@@ -1,0 +1,1 @@
+export default () => <h1>Admission Form</h1>;
